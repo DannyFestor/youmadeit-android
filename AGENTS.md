@@ -2,6 +2,10 @@
 
 The Kotlin Android client. Product docs, the voice guide, the glossary and the decisions that cross repos live in the parent repo, `youmadeit`, which holds this clone in its `android/` folder.
 
+## Voice
+
+Every user-facing word follows the parent's voice guide, `docs/voice.md`: the companion doctrine, the never-pressure vocabulary, and the canonical moments table.
+
 ## Agent skills
 
 ### Issue tracker
